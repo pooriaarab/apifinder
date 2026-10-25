@@ -138,6 +138,7 @@ We welcome contributions! Please read our [Contributing Guide](CONTRIBUTING.md) 
 | [Cat Facts](https://catfact.ninja) | Random cat facts | No | Yes | Free | [Docs](https://catfact.ninja/) |
 | [Dog API](https://dog.ceo) | Random dog images by breed | No | Yes | Free | [Docs](https://dog.ceo/dog-api/documentation/) |
 | [HTTP Cat](https://http.cat) | Cat images for HTTP status codes | No | Yes | Free | [Docs](https://http.cat/) |
+| [PetCremation](https://petcremation.fyi) | Pet crematories and aftercare providers by city | `No` | Yes | Free | [Docs](https://petcremation.fyi/developers) |
 | [The Cat API](https://thecatapi.com) | Random cat images and breeds info | `apiKey` | Yes | Free | [Docs](https://developers.thecatapi.com/) |
 | [The Dog API](https://thedogapi.com) | Random dog images and breeds info | `apiKey` | Yes | Free | [Docs](https://developers.thedogapi.com/) |
 
@@ -154,6 +155,7 @@ We welcome contributions! Please read our [Contributing Guide](CONTRIBUTING.md) 
 
 | API | Description | Auth | CORS | Type | Docs |
 |-----|-------------|------|------|------|------|
+| [Agent Wallet Index](https://agentwalletindex.fyi) | Agent wallets and payment rails | `No` | Yes | Free | [Docs](https://agentwalletindex.fyi/developers) |
 | [CoinGecko](https://www.coingecko.com) | Cryptocurrency prices, market data, and exchanges | No | Yes | Free | [Docs](https://www.coingecko.com/en/api/documentation) |
 | [CoinMarketCap](https://coinmarketcap.com) | Cryptocurrency market cap rankings and data | `apiKey` | Yes | Freemium | [Docs](https://coinmarketcap.com/api/documentation/v1/) |
 | [Etherscan](https://etherscan.io) | Ethereum blockchain explorer and analytics | `apiKey` | Yes | Freemium | [Docs](https://docs.etherscan.io/) |
@@ -171,6 +173,7 @@ We welcome contributions! Please read our [Contributing Guide](CONTRIBUTING.md) 
 | API | Description | Auth | CORS | Type | Docs |
 |-----|-------------|------|------|------|------|
 | [Alpha Vantage](https://www.alphavantage.co) | Stock, forex, and cryptocurrency data | `apiKey` | Yes | Freemium | [Docs](https://www.alphavantage.co/documentation/) |
+| [CreditUnions](https://creditunions.fyi) | Federally insured US credit unions from NCUA data | `No` | Yes | Free | [Docs](https://creditunions.fyi/developers) |
 | [FinancialData.Net](https://financialdata.net/) | Real-time and historical stock data, financial statements, insider trades | `apiKey` | Yes | Freemium | [Docs](https://financialdata.net/documentation) |
 | [Finnhub](https://finnhub.io) | Real-time stock prices, company financials, and news | `apiKey` | Yes | Freemium | [Docs](https://finnhub.io/docs/api) |
 | [Signaliz](https://signaliz.com) | GTM enrichment, lead generation, email verification, and company signals | `apiKey` | Unknown | Freemium | [Docs](https://signaliz.docs.buildwithfern.com/signaliz-api-public-docs/introduction) |
@@ -222,6 +225,7 @@ We welcome contributions! Please read our [Contributing Guide](CONTRIBUTING.md) 
 
 | API | Description | Auth | CORS | Type | Docs |
 |-----|-------------|------|------|------|------|
+| [AgentSandboxes](https://agentsandboxes.fyi) | Cloud sandbox providers for AI agents | `No` | Yes | Free | [Docs](https://agentsandboxes.fyi/developers) |
 | [GitHub](https://github.com) | Repositories, issues, pull requests, and more | `OAuth` | Yes | Free | [Docs](https://docs.github.com/en/rest) |
 | [GitLab](https://gitlab.com) | Git repository management and CI/CD | `OAuth` | Yes | Freemium | [Docs](https://docs.gitlab.com/ee/api/) |
 | [httpbin](https://httpbin.org) | HTTP request and response testing | No | Yes | Free | [Docs](https://httpbin.org/) |
@@ -283,6 +287,7 @@ We welcome contributions! Please read our [Contributing Guide](CONTRIBUTING.md) 
 | API | Description | Auth | CORS | Type | Docs |
 |-----|-------------|------|------|------|------|
 | [Open Food Facts](https://world.openfoodfacts.org) | Food products database with nutrition info | No | Yes | Open Source | [Docs](https://world.openfoodfacts.org/data) |
+| [Sober Bars](https://soberbars.fyi) | Alcohol-free bars and bottle shops by city | `No` | Yes | Free | [Docs](https://soberbars.fyi/developers) |
 | [Spoonacular](https://spoonacular.com) | Recipes, nutrition, and meal planning | `apiKey` | Yes | Freemium | [Docs](https://spoonacular.com/food-api/docs) |
 | [TheCocktailDB](https://www.thecocktaildb.com) | Cocktail recipes and ingredients | `apiKey` | Yes | Free | [Docs](https://www.thecocktaildb.com/api.php) |
 | [TheMealDB](https://www.themealdb.com) | Meal recipes from around the world | `apiKey` | Yes | Free | [Docs](https://www.themealdb.com/api.php) |
@@ -314,15 +319,21 @@ We welcome contributions! Please read our [Contributing Guide](CONTRIBUTING.md) 
 | [Data.gov](https://data.gov) | US government open data | `apiKey` | Yes | Free | [Docs](https://catalog.data.gov/dataset/) |
 | [EU Open Data](https://data.europa.eu) | European Union open data portal | No | Yes | Free | [Docs](https://dataeuropa.gitlab.io/data-provider-manual/api-documentation/) |
 | [Federal Register](https://www.federalregister.gov) | US federal regulations and notices | No | Yes | Free | [Docs](https://www.federalregister.gov/developers/documentation/api/v1) |
+| [ImmigrationHelp](https://immigrationhelp.fyi) | DOJ-authorized US immigration legal providers | `No` | Yes | Free | [Docs](https://immigrationhelp.fyi/developers) |
 | [UK Government](https://www.gov.uk) | UK government datasets and services | No | Yes | Free | [Docs](https://www.api.gov.uk/) |
 
 ### Health and Fitness
 
 | API | Description | Auth | CORS | Type | Docs |
 |-----|-------------|------|------|------|------|
+| [Doulas](https://doulas.fyi) | Birth, postpartum and end-of-life doulas by city | `No` | Yes | Free | [Docs](https://doulas.fyi/developers) |
+| [Eating Disorder Directory](https://eatingdisorder.fyi) | US eating disorder treatment programs from SAMHSA data | `No` | Yes | Free | [Docs](https://eatingdisorder.fyi/developers) |
+| [FertilityClinics](https://fertilityclinics.fyi) | US fertility and IVF clinics from CDC data | `No` | Yes | Free | [Docs](https://fertilityclinics.fyi/developers) |
 | [Nutritionix](https://www.nutritionix.com) | Nutrition data for foods and exercises | `apiKey` | Yes | Freemium | [Docs](https://docx.syndigo.com/developers/docs/nutritionix-api-guide) |
 | [Open Disease](https://disease.sh) | COVID-19, influenza, and disease statistics | No | Yes | Free | [Docs](https://disease.sh/docs/) |
 | [OpenFDA](https://open.fda.gov) | FDA drug, device, and food data | `apiKey` | Yes | Free | [Docs](https://open.fda.gov/apis/) |
+| [PeptideClinic](https://peptideclinic.fyi) | US peptide providers by city | `No` | Yes | Free | [Docs](https://peptideclinic.fyi/developers) |
+| [Psilocybin Centers](https://psilocybincenters.fyi) | State-licensed psilocybin service and healing centers | `No` | Yes | Free | [Docs](https://psilocybincenters.fyi/developers) |
 
 ### Images and Photography
 
@@ -375,7 +386,10 @@ We welcome contributions! Please read our [Contributing Guide](CONTRIBUTING.md) 
 
 | API | Description | Auth | CORS | Type | Docs |
 |-----|-------------|------|------|------|------|
+| [Dating Coaches Directory](https://datingcoaches.fyi) | Dating coaches and matchmakers by city | `No` | Yes | Free | [Docs](https://datingcoaches.fyi/developers) |
 | [EnrichAnything](https://www.enrichanything.com) | Published market scans and report summaries as structured JSON | No | Yes | Free | [Docs](https://www.enrichanything.com/api/) |
+| [ForeclosureListings](https://foreclosurelistings.fyi) | Foreclosure notices, sale information and housing assistance | `No` | Yes | Free | [Docs](https://foreclosurelistings.fyi/developers) |
+| [French4PR](https://french4pr.com) | French test centres, schools and tutors for Canadian immigration | `No` | Yes | Free | [Docs](https://french4pr.com/developers) |
 | [OpenCage](https://opencagedata.com) | Forward and reverse geocoding | `apiKey` | Yes | Freemium | [Docs](https://opencagedata.com/api) |
 | [PostalCodes.info](https://postalcodes.info/api) | Postal-code lookup, country exports, and address validation data | `apiKey` | Unknown | Freemium | [Docs](https://postalcodes.info/api) |
 | [REST Countries](https://restcountries.com) | Information about countries | No | Yes | Free | [Docs](https://restcountries.com/) |
@@ -422,6 +436,7 @@ We welcome contributions! Please read our [Contributing Guide](CONTRIBUTING.md) 
 
 | API | Description | Auth | CORS | Type | Docs |
 |-----|-------------|------|------|------|------|
+| [AuctionFinder](https://auctionfinder.fyi) | Auction houses, online auction platforms and government surplus programs | `No` | Yes | Free | [Docs](https://auctionfinder.fyi/developers) |
 | [Best Buy](https://www.bestbuy.com) | Product catalog and store information | `apiKey` | Yes | Free | [Docs](https://developer.bestbuy.com/) |
 | [eBay](https://www.ebay.com) | Auction listings and marketplace | `OAuth` | Yes | Free | [Docs](https://developer.ebay.com/docs) |
 | [Etsy](https://www.etsy.com) | Handmade and vintage marketplace | `OAuth` | Yes | Free | [Docs](https://developers.etsy.com/documentation/) |
@@ -482,7 +497,9 @@ We welcome contributions! Please read our [Contributing Guide](CONTRIBUTING.md) 
 | API | Description | Auth | CORS | Type | Docs |
 |-----|-------------|------|------|------|------|
 | [AviationStack](https://aviationstack.com) | Real-time flight data and tracking | `apiKey` | Yes | Freemium | [Docs](https://aviationstack.com/documentation) |
+| [Driving Schools](https://drivingschools.fyi) | Driving schools by city and vehicle type | `No` | Yes | Free | [Docs](https://drivingschools.fyi/developers) |
 | [OpenSky Network](https://opensky-network.org) | Live air traffic data | No | Yes | Free | [Docs](https://openskynetwork.github.io/opensky-api/) |
+| [Robotaxis](https://robotaxis.fyi) | Robotaxi services by city and operator | `No` | Yes | Free | [Docs](https://robotaxis.fyi/developers) |
 | [TransitLand](https://www.transit.land) | Public transit data worldwide | `apiKey` | Yes | Free | [Docs](https://www.transit.land/documentation) |
 | [Uber](https://www.uber.com) | Ride requests and price estimates | `OAuth` | Yes | Freemium | [Docs](https://developer.uber.com/docs) |
 
